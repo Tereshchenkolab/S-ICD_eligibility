@@ -15,7 +15,7 @@ Kazi T. Haq, PhD, Neeraj Javadekar, Ananya Rajagopalan, Larisa Tereshchenko, MD,
 
 ### S-ICD eligibility assessment using raw digital ECG signal
 
- See pdf files in the repository for the Heart Vector Origin Point Definition and Time-Coherent Beat calculation methods.
+ See pdf files in the repository 
  
  ### MATLAB Code
 -See .m files in the repository  
