@@ -28,7 +28,7 @@ Kazi T. Haq, PhD, Neeraj Javadekar, Ananya Rajagopalan, Larisa Tereshchenko, MD,
 
 
  ### Manuscript to reference:
- under review
+ Preprint: doi https://doi.org/10.1101/19009175
  
  
  ### Fully de-identified ECG data
