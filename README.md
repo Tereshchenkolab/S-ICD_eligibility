@@ -32,8 +32,8 @@ Kazi T. Haq, PhD, Neeraj Javadekar, Ananya Rajagopalan, Larisa Tereshchenko, MD,
  
  
  ### Fully de-identified ECG data
- - fully de-identified raw digital ECGs (.txt format) are provided for the study NCT03209726.
+ - fully de-identified raw digital ECG signal (.txt format) will be provided for the study NCT03209726.
  - 15-lead ECG files: first 12 columns are routine 12-lead ECG data, and remaining 3 columns are unipolar 3-lead ECG data (as described in manuscript). 12-lead and 3-lead ECG were recorded simultaneously.
  - left standing and supine, and right standing and supine positions: 4 ECGs for each participant
- - Folder contains 404 files (data of 101 participants)
+ - Folder will contain 404 files (data of 101 participants)
  
