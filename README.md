@@ -1,5 +1,5 @@
 # S-ICD_eligibility
-S-ICD eligibility assessment *(this repository is in preparation)
+S-ICD eligibility assessment 
 
 ## Table of Content
    - viewer code 
@@ -32,8 +32,8 @@ Kazi T. Haq, PhD, Neeraj Javadekar, Ananya Rajagopalan, Larisa Tereshchenko, MD,
  
  
  ### Fully de-identified ECG data
- - fully de-identified raw digital ECG signal (.txt format) will be provided for the study NCT03209726.
+ - fully de-identified raw digital ECG signal (.txt format) is provided for the study NCT03209726.
  - 15-lead ECG files: first 12 columns are routine 12-lead ECG data, and remaining 3 columns are unipolar 3-lead ECG data (as described in manuscript). 12-lead and 3-lead ECG were recorded simultaneously.
  - left standing and supine, and right standing and supine positions: 4 ECGs for each participant
- - Folder will contain 404 files (data of 101 participants)
+ - Two zip folders contain 404 files (data of 101 participants)
  
