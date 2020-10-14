@@ -28,10 +28,8 @@ Kazi T. Haq, PhD, Neeraj Javadekar, Ananya Rajagopalan, Larisa Tereshchenko, MD,
 
 
  ### Manuscript to reference:
-Eligibility for subcutaneous implantable cardioverter-defibrillator in congenital heart disease.
-Wang L, Javadekar N, Rajagopalan A, Rogovoy NM, Haq KT, Broberg CS, Tereshchenko LG.
-Heart Rhythm. 2020 May;17(5 Pt B):860-869. doi: 10.1016/j.hrthm.2020.01.016.
-PMID: 32354451 
+- Wang L, Javadekar N, Rajagopalan A, Rogovoy NM, Haq KT, Broberg CS, Tereshchenko LG. Eligibility for subcutaneous implantable cardioverter-defibrillator in congenital heart disease. Heart Rhythm. 2020 May;17(5 Pt B):860-869. doi: 10.1016/j.hrthm.2020.01.016 . PMID: 32354451 
+- Preprint: https://doi.org/10.1101/19009175
  
  ### Fully de-identified ECG data
  - fully de-identified raw digital ECG signal (.txt format) is provided for the study NCT03209726.
